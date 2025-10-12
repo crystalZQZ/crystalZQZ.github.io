@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "我的小小树洞" # the main title
+title: "Crystal" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 我的小小树洞 # it will display as the subtitle
 
 description: "我好像在人生的最最低谷，我想我只能通过改变来实施自救" 
 #>- # used by seo meta and the atom feed
@@ -39,8 +39,8 @@ social:
   email: 2239889739@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # change to your Twitter homepage
+    - https://github.com/crystalZQZ # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
