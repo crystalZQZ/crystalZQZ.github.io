@@ -4,7 +4,7 @@ categories: [日记]
 tags: [减肥, 碎碎念]
 pin: true # 置顶文章
 toc: true # 目录
-comments: true # 评论
+comments: false # 评论
 ---
 
 # 一些无厘头的自责与自恋
