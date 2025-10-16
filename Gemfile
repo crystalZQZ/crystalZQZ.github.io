@@ -6,9 +6,6 @@ gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.1"
 
 gem "html-proofer", "~> 5.0", group: :test
 
-gem "jekyll-jupyter-notebook"
-
-gem "github-pages", group: :jekyll_plugins
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
